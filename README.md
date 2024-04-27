@@ -1,5 +1,4 @@
 # Spark and Python for Big Data with PySpark
-A well-constructed summary of the learnings from the course Spark and Python for Big Data with PySpark.
 
 PySpark was set-up for this course using any one of the below mentioned methods - 
 1. Ubuntu + Spark + Python on Virtual Box
